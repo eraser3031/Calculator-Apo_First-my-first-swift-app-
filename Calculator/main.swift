@@ -25,10 +25,6 @@ class Player{
         }
     }
     
-    func test(){
-        
-    }
-    
     func rememberCal(){
         let temporaryValue = readLine()
         if let value = temporaryValue {
